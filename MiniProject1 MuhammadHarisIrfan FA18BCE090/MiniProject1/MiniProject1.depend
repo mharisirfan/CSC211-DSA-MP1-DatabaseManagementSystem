@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1570814305 source:c:\users\hp\documents\codeblocks\c\datastructures\miniproject1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Student.h"
+	"Miniproject_headers.h"
+
+1570814088 c:\users\hp\documents\codeblocks\c\datastructures\miniproject1\miniproject_headers.h
+
+1570810569 c:\users\hp\documents\codeblocks\c\datastructures\miniproject1\student.h
+
+1570814197 source:c:\users\hp\documents\codeblocks\c\datastructures\miniproject1\miniproject_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Student.h"
+	"Miniproject_headers.h"
+
+1570814305 source:c:\users\hp\desktop\semester 3\data structures and algorithm\project\submitted projects\miniproject1 muhammadharisirfan fa18bce090\miniproject1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Student.h"
+	"Miniproject_headers.h"
+
+1570814628 c:\users\hp\desktop\semester 3\data structures and algorithm\project\submitted projects\miniproject1 muhammadharisirfan fa18bce090\miniproject1\student.h
+
+1570814088 c:\users\hp\desktop\semester 3\data structures and algorithm\project\submitted projects\miniproject1 muhammadharisirfan fa18bce090\miniproject1\miniproject_headers.h
+
+1570814197 source:c:\users\hp\desktop\semester 3\data structures and algorithm\project\submitted projects\miniproject1 muhammadharisirfan fa18bce090\miniproject1\miniproject_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Student.h"
+	"Miniproject_headers.h"
+
